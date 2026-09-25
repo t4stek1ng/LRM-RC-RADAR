@@ -13,8 +13,6 @@ quantity and need no auxiliary model.
 | **Detection** | A frozen 4-class logistic classifier scores the generation at checkpoints `L ∈ {256, 512, 1024, 2048, 4096}`. The first confident attack verdict (`p_max ≥ 0.5`) triggers. Features: attention-consistency mean, prompt-side-mass slope, `log L`. | `src/detection/detector.py`, `detection_runtime.py` |
 | **Suppression** | On trigger, the attention row of the current token is rewritten inside a band of layers, so the prompt-side mass returns to the level a *benign* trajectory of the same model shows at the same generation position. Per layer, self-solved, zero lag. | `src/detection/{attention_reference,row_reshape,suppression_runtime}.py` |
 
-Chinese version: [README_zh.md](README_zh.md) — same content.
-
 The four classes are `concise` / `productive` (benign) and `repetitive_reasoning` /
 `repetitive_string` (attack). Evaluated on five models: DeepSeek-R1-Distill-Llama-8B,
 DeepSeek-R1-Distill-Qwen-14B, QwQ-32B, GLM-4.7-Flash, Qwen3.6-27B.
@@ -281,20 +279,3 @@ dataset/<model>/                                     (in this repo)
         └─ test/records/ ────────────────────────────────────┤
       4.4 layer_prompt_share.py → pick_band.py → band ───────┴─ 4.6 run_suppression_eval.py
 ```
-
-## 6. Known limits
-
-- **The band rule is a rule, not a theory.** It picks the window of lowest prompt-side
-  share; a per-model scan is what validated it. Re-derive it for any new model.
-- **`repetitive_string` is the hard class.** The in-row operator redistributes mass
-  within a row; where a loop lives in token identity rather than in attention placement,
-  it often fails to flip the argmax.
-- **The two detection features are cumulative from position 0**, so they answer "has this
-  trajectory been looping" rather than "is it looping right now". A sliding-window
-  consistency metric is the known gap.
-- **Qwen3.6-27B's reference curve fits poorly** (R² 0.394 against 0.957–0.970 for the
-  others): its prompt-side mass barely grows with generation position, and its attack
-  prompts are 4–9× longer than any benign trajectory, so the length term sits pinned at
-  its fitted bound.
-- Suppression is evaluated at temperature 0 with a 16384-token budget; a different
-  condition is a different experiment.
