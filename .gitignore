@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Everything the pipeline produces
+runs/
+*.npy
+
+# Deployment artifacts are written here by attention_reference.py / detector.py
+recur_code/exp/detection_dataset/models/*
+!recur_code/exp/detection_dataset/models/.gitkeep
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store

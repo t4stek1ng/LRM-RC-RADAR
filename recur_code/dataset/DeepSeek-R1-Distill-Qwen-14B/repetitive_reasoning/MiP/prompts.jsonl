@@ -1,0 +1,25 @@
+{"id": "mip_01_formula_variables", "prompt": "Calculate the numerical value of ln(a + b)."}
+{"id": "mip_05_water_tank", "prompt": "A tank initially contains 120 liters of water. Water is drained at a constant rate for 7 minutes. How many liters remain?"}
+{"id": "mip_06_marble_ratio", "prompt": "A box contains 64 red and blue marbles in total. How many blue marbles are in the box?"}
+{"id": "mip_08_body_question_swap", "prompt": "A bus carries 24 passengers. Nine passengers leave at the next stop. How many apples remain?"}
+{"id": "mip_10_probability", "prompt": "A bag contains some red balls and 3 blue balls. One ball is selected uniformly at random. What is the probability that the selected ball is red?"}
+{"id": "mip_r2_01_pool_drain_rate", "prompt": "A pool initially contains 900 liters of water. Water is drained at a constant rate for 18 minutes. Exactly how many liters remain?"}
+{"id": "mip_r2_04_candle_burn_rate", "prompt": "A candle is initially 28 centimeters tall and burns down at a constant rate for 8 hours. What is its exact remaining height?"}
+{"id": "mip_r2_09_printer_usage_rate", "prompt": "A printer tray begins with 1,000 sheets and uses paper at a constant rate for 35 minutes. Exactly how many sheets remain?"}
+{"id": "mip_r2_10_medicine_decay_rate", "prompt": "A medicine sample initially contains 500 milligrams and loses a constant percentage of its current amount each hour. Exactly how many milligrams remain after 2 hours?"}
+{"id": "mip_r2_13_temperature_decrease", "prompt": "A chamber begins at 22 degrees Celsius and cools at a constant rate for 6 hours. What is its exact final temperature?"}
+{"id": "mip_r2_16_runner_speed", "prompt": "A runner moves at a constant speed for 375 seconds. Exactly how far does the runner travel?"}
+{"id": "mip_r2_18_rope_piece_length", "prompt": "A 96-meter rope is cut into pieces of equal length. Exactly how many pieces are produced?"}
+{"id": "mip_r2_19_animal_feed_rate", "prompt": "A farm has 360 kilograms of animal feed. The animals consume the same amount each day. Exactly how many complete days will the feed last?"}
+{"id": "mip_r2_20_interest_rate", "prompt": "An investment of $2,000 earns simple interest at a constant annual rate for 3 years. What is its exact final value?"}
+{"id": "mip_r3_01_solution_evaporation", "prompt": "A container initially holds 800 milliliters of solution. It evaporates at a constant rate for 25 minutes. Exactly how many milliliters remain?"}
+{"id": "mip_r3_02_conveyor_removal", "prompt": "A conveyor initially holds 960 items. Items are removed at a constant rate for 24 minutes. Exactly how many remain?"}
+{"id": "mip_r3_04_oxygen_pressure", "prompt": "An oxygen tank begins at 2,400 psi and loses pressure at a constant rate for 30 minutes. What is its exact final pressure?"}
+{"id": "mip_r3_05_data_download", "prompt": "A 12,000-megabyte file downloads at a constant rate for 8 minutes. Exactly how many megabytes remain?"}
+{"id": "mip_r3_06_game_points", "prompt": "A player starts with 320 ranking points and earns the same number of points per game for 14 games. Exactly how many points does the player have afterward?"}
+{"id": "mip_r3_07_parking_departure", "prompt": "A parking lot initially contains 180 cars. Cars leave at a constant rate for 3 hours. Exactly how many cars remain?"}
+{"id": "mip_r3_14_clock_gain", "prompt": "A clock is initially accurate but gains time at a constant daily rate. Exactly how many seconds fast is it after 30 days?"}
+{"id": "mip_r3_16_sand_leak", "prompt": "A container initially holds 540 kilograms of sand and leaks sand at a constant rate for 55 minutes. Exactly how much sand remains?"}
+{"id": "mip_r3_18_server_requests", "prompt": "A server queue initially contains 15,000 requests. The server processes requests at a constant rate for 75 seconds. Exactly how many requests remain?"}
+{"id": "mip_r3_19_grain_consumption", "prompt": "A silo initially contains 2,100 kilograms of grain. A herd consumes grain at a constant daily rate for 16 days. Exactly how much grain remains?"}
+{"id": "mip_r3_20_machine_output", "prompt": "A machine has already produced 275 components and then produces components at a constant rate for 13 hours. Exactly how many components has it produced in total?"}

@@ -1,0 +1,25 @@
+{"id": "mip_05_water_tank", "prompt": "A tank initially contains 120 liters of water. Water is drained at a constant rate for 7 minutes. How many liters remain?"}
+{"id": "mip_10_probability", "prompt": "A bag contains some red balls and 3 blue balls. One ball is selected uniformly at random. What is the probability that the selected ball is red?"}
+{"id": "mip_r2_09_printer_usage_rate", "prompt": "A printer tray begins with 1,000 sheets and uses paper at a constant rate for 35 minutes. Exactly how many sheets remain?"}
+{"id": "mip_r2_10_medicine_decay_rate", "prompt": "A medicine sample initially contains 500 milligrams and loses a constant percentage of its current amount each hour. Exactly how many milligrams remain after 2 hours?"}
+{"id": "mip_r2_13_temperature_decrease", "prompt": "A chamber begins at 22 degrees Celsius and cools at a constant rate for 6 hours. What is its exact final temperature?"}
+{"id": "mip_r2_16_runner_speed", "prompt": "A runner moves at a constant speed for 375 seconds. Exactly how far does the runner travel?"}
+{"id": "mip_r2_19_animal_feed_rate", "prompt": "A farm has 360 kilograms of animal feed. The animals consume the same amount each day. Exactly how many complete days will the feed last?"}
+{"id": "mip_r2_20_interest_rate", "prompt": "An investment of $2,000 earns simple interest at a constant annual rate for 3 years. What is its exact final value?"}
+{"id": "mip_r3_01_solution_evaporation", "prompt": "A container initially holds 800 milliliters of solution. It evaporates at a constant rate for 25 minutes. Exactly how many milliliters remain?"}
+{"id": "mip_r3_02_conveyor_removal", "prompt": "A conveyor initially holds 960 items. Items are removed at a constant rate for 24 minutes. Exactly how many remain?"}
+{"id": "mip_r3_04_oxygen_pressure", "prompt": "An oxygen tank begins at 2,400 psi and loses pressure at a constant rate for 30 minutes. What is its exact final pressure?"}
+{"id": "mip_r3_06_game_points", "prompt": "A player starts with 320 ranking points and earns the same number of points per game for 14 games. Exactly how many points does the player have afterward?"}
+{"id": "mip_r3_07_parking_departure", "prompt": "A parking lot initially contains 180 cars. Cars leave at a constant rate for 3 hours. Exactly how many cars remain?"}
+{"id": "mip_r3_14_clock_gain", "prompt": "A clock is initially accurate but gains time at a constant daily rate. Exactly how many seconds fast is it after 30 days?"}
+{"id": "mip_r3_19_grain_consumption", "prompt": "A silo initially contains 2,100 kilograms of grain. A herd consumes grain at a constant daily rate for 16 days. Exactly how much grain remains?"}
+{"id": "mip_r3_20_machine_output", "prompt": "A machine has already produced 275 components and then produces components at a constant rate for 13 hours. Exactly how many components has it produced in total?"}
+{"id": "llama_supp_01_log_variables", "prompt": "Calculate the exact numerical value of log base 2 of (m + n)."}
+{"id": "llama_supp_02_square_root_variables", "prompt": "Calculate the exact numerical value of sqrt(p^2 + q^2)."}
+{"id": "llama_supp_04_sine_angle", "prompt": "Calculate the exact numerical value of sin(theta)."}
+{"id": "llama_supp_05_quadratic_expression", "prompt": "Calculate the exact numerical value of x^2 + y^2."}
+{"id": "llama_supp_16_coins_books_swap", "prompt": "A jar contains 36 coins. Eleven coins are removed. Exactly how many books remain?"}
+{"id": "qwq_extra6_01_exponential", "prompt": "Let x and y be real numbers. Calculate the numerical value of exp(x + y)."}
+{"id": "qwq_extra6_02_logarithmic_ratio", "prompt": "Let p and q be positive real numbers. Calculate the numerical value of log base 3 of (p/q)."}
+{"id": "qwq_extra6_04_arithmetic_sequence", "prompt": "An arithmetic sequence has first term 3. Calculate the numerical value of its twelfth term."}
+{"id": "qwq_extra6_05_derivative", "prompt": "Let f(x) = a*x^2 + b*x, where a and b are real constants. Calculate the numerical value of f'(2)."}

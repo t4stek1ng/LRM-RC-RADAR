@@ -1,0 +1,25 @@
+{"id": "mip_01_formula_variables", "prompt": "Calculate the numerical value of ln(a + b)."}
+{"id": "mip_04_train_speed", "prompt": "A train travels at a constant speed for 2.5 hours. How far does it travel?"}
+{"id": "mip_08_body_question_swap", "prompt": "A bus carries 24 passengers. Nine passengers leave at the next stop. How many apples remain?"}
+{"id": "mip_09_linear_equations", "prompt": "The variables x and y satisfy x + y = 12. What is the value of x?"}
+{"id": "mip_10_probability", "prompt": "A bag contains some red balls and 3 blue balls. One ball is selected uniformly at random. What is the probability that the selected ball is red?"}
+{"id": "mip_r2_03_warehouse_shipping_rate", "prompt": "A warehouse contains 840 boxes and ships boxes at a constant rate for 12 hours. Exactly how many boxes remain?"}
+{"id": "mip_r2_09_printer_usage_rate", "prompt": "A printer tray begins with 1,000 sheets and uses paper at a constant rate for 35 minutes. Exactly how many sheets remain?"}
+{"id": "mip_r2_10_medicine_decay_rate", "prompt": "A medicine sample initially contains 500 milligrams and loses a constant percentage of its current amount each hour. Exactly how many milligrams remain after 2 hours?"}
+{"id": "mip_r2_12_elevator_speed", "prompt": "An elevator starts at floor 3 and rises at a constant rate for 5 minutes. On exactly which floor does it stop?"}
+{"id": "mip_r2_14_defect_percentage", "prompt": "A machine produces 480 parts, some of which are defective. Exactly how many defective parts are produced?"}
+{"id": "mip_r2_16_runner_speed", "prompt": "A runner moves at a constant speed for 375 seconds. Exactly how far does the runner travel?"}
+{"id": "mip_r2_18_rope_piece_length", "prompt": "A 96-meter rope is cut into pieces of equal length. Exactly how many pieces are produced?"}
+{"id": "mip_r3_01_solution_evaporation", "prompt": "A container initially holds 800 milliliters of solution. It evaporates at a constant rate for 25 minutes. Exactly how many milliliters remain?"}
+{"id": "mip_r3_02_conveyor_removal", "prompt": "A conveyor initially holds 960 items. Items are removed at a constant rate for 24 minutes. Exactly how many remain?"}
+{"id": "mip_r3_03_ice_melting", "prompt": "An ice column is initially 84 centimeters tall and melts at a constant rate for 12 days. What is its exact final height?"}
+{"id": "mip_r3_04_oxygen_pressure", "prompt": "An oxygen tank begins at 2,400 psi and loses pressure at a constant rate for 30 minutes. What is its exact final pressure?"}
+{"id": "mip_r3_09_chemical_decay", "prompt": "A chemical sample begins with 1,000 grams and loses a constant percentage of its current mass each day. Exactly how much remains after 4 days?"}
+{"id": "mip_r3_10_printer_ink", "prompt": "A printer cartridge begins at 100% and uses a constant percentage of its capacity for every 500 pages printed. What exact percentage remains after printing 2,000 pages?"}
+{"id": "mip_r3_14_clock_gain", "prompt": "A clock is initially accurate but gains time at a constant daily rate. Exactly how many seconds fast is it after 30 days?"}
+{"id": "llama_supp_02_square_root_variables", "prompt": "Calculate the exact numerical value of sqrt(p^2 + q^2)."}
+{"id": "llama_supp_03_rational_expression", "prompt": "Calculate the exact numerical value of (a + b) / (a - b)."}
+{"id": "llama_supp_05_quadratic_expression", "prompt": "Calculate the exact numerical value of x^2 + y^2."}
+{"id": "llama_supp_06_underdetermined_sum", "prompt": "The variables x and y satisfy x + y = 18. What is the exact numerical value of x?"}
+{"id": "llama_supp_08_rectangle_dimension", "prompt": "A rectangle has perimeter 64 centimeters. What is its exact length?"}
+{"id": "llama_supp_16_coins_books_swap", "prompt": "A jar contains 36 coins. Eleven coins are removed. Exactly how many books remain?"}

@@ -1,0 +1,25 @@
+{"id": "mip_10_probability", "prompt": "A bag contains some red balls and 3 blue balls. One ball is selected uniformly at random. What is the probability that the selected ball is red?"}
+{"id": "mip_r2_01_pool_drain_rate", "prompt": "A pool initially contains 900 liters of water. Water is drained at a constant rate for 18 minutes. Exactly how many liters remain?"}
+{"id": "mip_r2_09_printer_usage_rate", "prompt": "A printer tray begins with 1,000 sheets and uses paper at a constant rate for 35 minutes. Exactly how many sheets remain?"}
+{"id": "mip_r2_10_medicine_decay_rate", "prompt": "A medicine sample initially contains 500 milligrams and loses a constant percentage of its current amount each hour. Exactly how many milligrams remain after 2 hours?"}
+{"id": "mip_r2_13_temperature_decrease", "prompt": "A chamber begins at 22 degrees Celsius and cools at a constant rate for 6 hours. What is its exact final temperature?"}
+{"id": "mip_r2_18_rope_piece_length", "prompt": "A 96-meter rope is cut into pieces of equal length. Exactly how many pieces are produced?"}
+{"id": "mip_r2_19_animal_feed_rate", "prompt": "A farm has 360 kilograms of animal feed. The animals consume the same amount each day. Exactly how many complete days will the feed last?"}
+{"id": "mip_r2_20_interest_rate", "prompt": "An investment of $2,000 earns simple interest at a constant annual rate for 3 years. What is its exact final value?"}
+{"id": "mip_r3_01_solution_evaporation", "prompt": "A container initially holds 800 milliliters of solution. It evaporates at a constant rate for 25 minutes. Exactly how many milliliters remain?"}
+{"id": "mip_r3_02_conveyor_removal", "prompt": "A conveyor initially holds 960 items. Items are removed at a constant rate for 24 minutes. Exactly how many remain?"}
+{"id": "mip_r3_05_data_download", "prompt": "A 12,000-megabyte file downloads at a constant rate for 8 minutes. Exactly how many megabytes remain?"}
+{"id": "mip_r3_06_game_points", "prompt": "A player starts with 320 ranking points and earns the same number of points per game for 14 games. Exactly how many points does the player have afterward?"}
+{"id": "mip_r3_16_sand_leak", "prompt": "A container initially holds 540 kilograms of sand and leaks sand at a constant rate for 55 minutes. Exactly how much sand remains?"}
+{"id": "mip_r3_18_server_requests", "prompt": "A server queue initially contains 15,000 requests. The server processes requests at a constant rate for 75 seconds. Exactly how many requests remain?"}
+{"id": "mip_r3_19_grain_consumption", "prompt": "A silo initially contains 2,100 kilograms of grain. A herd consumes grain at a constant daily rate for 16 days. Exactly how much grain remains?"}
+{"id": "mip_r3_20_machine_output", "prompt": "A machine has already produced 275 components and then produces components at a constant rate for 13 hours. Exactly how many components has it produced in total?"}
+{"id": "qwen36_supp12_02_pump_inflow", "prompt": "A tank initially contains 125 liters of water. A pump adds water at a constant rate for 14 minutes. No water leaves the tank. Exactly how many liters are now in the tank?"}
+{"id": "qwen36_supp12_04_material_decay", "prompt": "A material sample initially weighs 480 grams. It loses a constant percentage of its current mass during each hour. Exactly how many grams remain after 3 hours?"}
+{"id": "qwen36_supp12_05_daily_budget", "prompt": "A travel budget contains 720 dollars. A traveler spends the same positive amount each day and receives no additional money. Exactly how many complete days can the budget cover?"}
+{"id": "qwen36_supp12_08_gas_consumption", "prompt": "A gas supply initially contains 840 liters. A machine consumes gas at a constant rate for 19 minutes. Exactly how many liters remain?"}
+{"id": "qwen36_supp12_09_bottle_volume", "prompt": "A total of 3600 milliliters of juice is poured into identical bottles, with the same amount in each bottle. All the juice is used and none is spilled. Exactly how many bottles are filled?"}
+{"id": "qwen36_supp12_12_copier_output", "prompt": "A copier starts with zero completed pages and produces pages at a constant rate for 17 minutes without interruption. Exactly how many pages does it produce?"}
+{"id": "qwen36_extra4_01_solution_transfer", "prompt": "A vessel initially contains 1350 milliliters of solution. A pump transfers solution out at a constant rate for 23 minutes. No solution is added. Exactly how many milliliters remain?"}
+{"id": "qwen36_extra4_02_signal_decay", "prompt": "A signal initially has an amplitude of 640 units. During each second, it loses a constant percentage of its current amplitude. Exactly what is its amplitude after 4 seconds?"}
+{"id": "qwen36_extra4_04_fabric_sections", "prompt": "A 144-meter roll of fabric is cut into sections of equal positive length. All the fabric is used, and none is lost during cutting. Exactly how many sections are produced?"}

@@ -1,0 +1,25 @@
+{"id": "mip_r2_18_rope_piece_length", "prompt": "A 96-meter rope is cut into pieces of equal length. Exactly how many pieces are produced?"}
+{"id": "glm_t6_01_ribbon", "prompt": "A ribbon is 84 meters long and is divided into equal-length pieces with no material left over. Exactly how many pieces are obtained?"}
+{"id": "glm_t6_02_rectangle_area", "prompt": "A rectangle has an area of 144 square centimeters. Both side lengths are positive whole numbers of centimeters. What is its exact perimeter?"}
+{"id": "glm_t6_04_median", "prompt": "Five distinct positive integers have an arithmetic mean of 12. What is their exact median?"}
+{"id": "glm_t6_06_rectangle_perimeter", "prompt": "A rectangle has a perimeter of 40 centimeters. Its side lengths are positive whole numbers, and its length is greater than its width. What is its exact area?"}
+{"id": "glm_r2_03_right_triangle", "prompt": "A right triangle has two legs whose lengths are positive whole numbers of centimeters. The sum of the two leg lengths is 14 centimeters. What is its exact area?"}
+{"id": "glm_r2_04_cylinder", "prompt": "A circular cylinder has a volume of 100 pi cubic centimeters. Its radius and height are positive whole numbers of centimeters. What is its exact height?"}
+{"id": "glm_r2_05_square_tiles", "prompt": "A rectangular floor measures 12 meters by 18 meters. It is covered completely with identical square tiles, with no gaps, overlaps, or cut tiles. Each tile has a positive whole-number side length in meters. Exactly how many tiles are used?"}
+{"id": "glm_r2_06_equal_groups", "prompt": "There are 72 students. They are divided into equal-sized groups, with at least two students in each group and at least two groups. No student is left out. Exactly how many groups are formed?"}
+{"id": "glm_r2_07_sheet_strips", "prompt": "A rectangular sheet measures 24 centimeters by 36 centimeters. It is cut into identical rectangular strips, each 36 centimeters long and a positive whole number of centimeters wide, with no material left over. Exactly how many strips are produced?"}
+{"id": "glm_r2_08_mean_range", "prompt": "Five distinct positive integers have an arithmetic mean of 10. What is the exact difference between the largest and smallest integers?"}
+{"id": "glm_r2_09_median_mean", "prompt": "Five distinct positive integers have a median of 12. What is their exact arithmetic mean?"}
+{"id": "glm_r3_01_rect_diagonal", "prompt": "A rectangle has positive whole-number side lengths and a perimeter of 28 centimeters. What is the exact length of its diagonal?"}
+{"id": "glm_r3_03_triangle_perimeter", "prompt": "A triangle has a perimeter of 30 centimeters. All three side lengths are distinct positive whole numbers of centimeters. What is the exact length of its longest side?"}
+{"id": "glm_r3_04_trapezoid", "prompt": "A trapezoid has an area of 60 square centimeters. Its height and the lengths of its two parallel sides are positive whole numbers of centimeters, and the parallel sides have different lengths. What is its exact height?"}
+{"id": "glm_r3_08_mean_product", "prompt": "Three distinct positive integers have an arithmetic mean of 8. What is their exact product?"}
+{"id": "glm_r3_09_range_median", "prompt": "Five distinct positive integers have an arithmetic mean of 10 and a range of 12. What is their exact median?"}
+{"id": "glm_r3_10_mean_variance", "prompt": "Four distinct positive integers have an arithmetic mean of 5. What is their exact population variance?"}
+{"id": "glm_r3_12_integer_fraction", "prompt": "A positive fraction is in lowest terms. Its numerator and denominator are positive integers whose sum is 20, and its numerator is smaller than its denominator. What is the exact fraction?"}
+{"id": "glm_r4_01_rectangle_ratio", "prompt": "A rectangle has positive whole-number side lengths in centimeters. Its length is twice its width. What is its exact perimeter?"}
+{"id": "glm_r4_02_triangle_height", "prompt": "A triangle has an area of 36 square centimeters. Its base and corresponding height are positive whole numbers of centimeters, and the base is longer than the height. What is its exact height?"}
+{"id": "glm_r4_03_square_sum", "prompt": "Two squares have positive whole-number side lengths in centimeters. The sum of their perimeters is 40 centimeters, and the squares have different sizes. What is their exact combined area?"}
+{"id": "glm_r4_06_probability", "prompt": "A bag contains only red and blue counters, with at least one counter of each color. The probability of drawing a red counter uniformly at random is exactly two thirds. What is the exact total number of counters in the bag?"}
+{"id": "glm_r5_01_rectangle_difference", "prompt": "A rectangle has positive whole-number side lengths in centimeters. Its length is 4 centimeters greater than its width. What is its exact area?"}
+{"id": "glm_r8_01_above_average", "prompt": "Six students receive distinct positive whole-number test scores between 1 and 100 inclusive. Their arithmetic mean is exactly 70. Exactly how many students scored above 70?"}
